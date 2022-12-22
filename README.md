@@ -10,7 +10,3 @@
 - 💬 Ask me about **HTML, CSS, JavaScript & Java**
 
 - ⚡ Hobbies **Writing Poems**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
