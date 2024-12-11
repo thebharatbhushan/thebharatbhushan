@@ -6,7 +6,8 @@
 <h3 align="center">A passionate web and game developer from India.</h3>
 
 - 📝 Blog: [https://solutionguru5.blogspot.com](https://solutionguru5.blogspot.com)
+- 🌐 Website: [https://bharatbhushan.netlify.app](https://bharatbhushan.netlify.app)
 
-- 💬 Ask me about **HTML, CSS, JavaScript & Java.**
+- 💬 Ask me about **HTML, CSS, JavaScript, Phaser Framework, ReactJS & Java.**
   
 - ⚡ Hobbies **Writing Poems.**
