@@ -12,7 +12,7 @@
 ### 💻 Tech Stack
 - Frontend: **HTML**, **CSS**, **JavaScript**, **ReactJS**
 - Game Development: **Phaser**, **CreateJS**
-- Backend: **Java**
+- Backend: **NodeJS**
 
 ### 📫 Let's Connect
 - Feel free to reach out about web or game development projects, collaboration, or tech discussions.
